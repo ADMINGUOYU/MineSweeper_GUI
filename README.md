@@ -1,5 +1,5 @@
 # MineSweeper_GUI
-A rewrite version of Minesweeper using Win32 Graphics (C++)
+Updated version of Minesweeper using Win32 Graphics (C++)
 
 ## 1. Different Modules
 
